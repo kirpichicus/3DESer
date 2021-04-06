@@ -1,3 +1,4 @@
+Для запуска программы необходимо иметь jre не ниже 1.8
 
 genkey password outputFile   
 
